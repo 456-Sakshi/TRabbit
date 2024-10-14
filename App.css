@@ -1,0 +1,20 @@
+body{
+  text-align: center;
+  background-color:beige;
+}
+
+.footer{
+  background-color:azure;
+}
+
+form {
+  display: inline-block;
+  
+  background-color:azure;
+  padding: 3em;
+  width: 30rem;
+  border: 1px solid #ccc;
+  border-radius: 0.5em;
+  margin-top: 5rem;
+  margin-left:30rem;
+}
